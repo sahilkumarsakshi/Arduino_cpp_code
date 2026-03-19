@@ -38,7 +38,7 @@ Instead of an alarming auditory beep, this system uses **non-blocking PWM haptic
 ## ⚙️ Circuit Diagram
 *(Note: Upload your `schematic_diagram.png` to the repository, and it will appear here)*
 
-![Schematic diagram](../Schematic%20diagram.png)
+![Schematic diagram](Schematic%20diagram.png)
 
 **Pin Mapping:**
 * `D2` -> Left Sensor TRIG
