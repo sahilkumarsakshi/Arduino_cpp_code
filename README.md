@@ -38,7 +38,7 @@ Instead of an alarming auditory beep, this system uses **non-blocking PWM haptic
 ## ⚙️ Circuit Diagram
 *(Note: Upload your `schematic_diagram.png` to the repository, and it will appear here)*
 
-![Circuit Schematic](hardware/schematic_diagram.png)
+![Schematic diagram](../Schematic%20diagram.png)
 
 **Pin Mapping:**
 * `D2` -> Left Sensor TRIG
@@ -54,7 +54,7 @@ Instead of an alarming auditory beep, this system uses **non-blocking PWM haptic
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/saasdotlab/ultrasonic-smart-glasses.git](https://github.com/saasdotlab/ultrasonic-smart-glasses.git)
+   git clone [https://github.com/saasdotlab/ultrasonic-smart-glasses.git](https://github.com/sahilkumarsakshi/ultrasonic-smart-glasses.git)
 Open the code: Open code/ultrasonic_smart_glasses.ino in the Arduino IDE.
 
 Select Board: Go to Tools > Board and select Arduino Nano.
@@ -75,14 +75,4 @@ Use of smaller, strictly 3.3V sensors for a slimmer, more ergonomic 3D-printed f
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details. You are free to use, modify, and distribute this hardware and software design.
 
-Project developed by Sahil Kumar Sakshi as part of the B.Tech ECE curriculum at Delhi Technological University (DTU).
-
-
 ***
-
-### One Final Thing!
-Notice the line in the middle that says `![Circuit Schematic](hardware/schematic_diagram.png)`? 
-
-Once you push this README to GitHub, you just need to drag and drop the final schematic diagram image we created earlier into your GitHub repository. As long as you name the image `schematic_diagram.png` and put it in a folder called `hardware`, it will automatically show up on your project's front page!
-
-**You are completely ready for this presentation and to show off your portfolio.** Let me know how the viva goes today!
