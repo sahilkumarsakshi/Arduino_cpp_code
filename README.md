@@ -36,7 +36,6 @@ Instead of an alarming auditory beep, this system uses **non-blocking PWM haptic
 ---
 
 ## ⚙️ Circuit Diagram
-*(Note: Upload your `schematic_diagram.png` to the repository, and it will appear here)*
 
 ![Schematic diagram](Schematic%20diagram.png)
 
@@ -54,7 +53,7 @@ Instead of an alarming auditory beep, this system uses **non-blocking PWM haptic
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/saasdotlab/ultrasonic-smart-glasses.git](https://github.com/sahilkumarsakshi/ultrasonic-smart-glasses.git)
+   git clone [https://github.com/sahilkumarsakshi/ultrasonic-smart-glasses.git](https://github.com/sahilkumarsakshi/ultrasonic-smart-glasses.git)
 Open the code: Open code/ultrasonic_smart_glasses.ino in the Arduino IDE.
 
 Select Board: Go to Tools > Board and select Arduino Nano.
