@@ -39,13 +39,6 @@ Instead of an alarming auditory beep, this system uses **non-blocking PWM haptic
 
 ![Schematic diagram](Schematic%20diagram.png)
 
-**Pin Mapping:**
-* `D2` -> Left Sensor TRIG
-* `D3` -> Left Sensor ECHO
-* `D4` -> Right Sensor TRIG
-* `D5` -> Right Sensor ECHO
-* `D10` -> Transistor Base (via 1k Resistor) -> Motor
-* `D13` -> Status LED
 
 ---
 
