@@ -52,8 +52,6 @@ Instead of an alarming auditory beep, this system uses **non-blocking PWM haptic
 ## 🚀 Installation & Setup
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/sahilkumarsakshi/ultrasonic-smart-glasses.git](https://github.com/sahilkumarsakshi/ultrasonic-smart-glasses.git)
 Open the code: Open code/ultrasonic_smart_glasses.ino in the Arduino IDE.
 
 Select Board: Go to Tools > Board and select Arduino Nano.
